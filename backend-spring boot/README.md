@@ -96,8 +96,4 @@
     - twitter
     - instagram
 
-**service**
 
-**service-implementation**
-
-**controller**
